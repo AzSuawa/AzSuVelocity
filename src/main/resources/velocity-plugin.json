@@ -1,0 +1,9 @@
+{
+    "id": "azsu-velocity",
+    "name": "AzSuVelocity",
+    "version": "1.0.0",
+    "description": "AzSu跨服命令转发Velocity端处理器",
+    "authors": ["azsu"],
+    "dependencies": [],
+    "main": "top.azsu.velocity.AzSuVelocityPlugin"
+}

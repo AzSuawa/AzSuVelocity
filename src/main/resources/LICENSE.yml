@@ -1,0 +1,15 @@
+default: zh_cn
+zh_cn:
+  info:
+    - "§6========= §eAzSuVelocity §6========="
+    - "§6开发者: §aAzSuawa"
+    - "§6源代码: §9§nhttps://github.com/AzSuawa/AzSuVelocity"
+    - "§6许可证: §2Mozilla Public License 2.0"
+    - "§6本插件基于MPL 2.0发布。使用、修改或分发需遵守其条款。"
+en_us:
+  info:
+    - "§6========= §eAzSuVelocity §6========="
+    - "§6Developer: §aAzSuawa"
+    - "§6Source Code: §9§nhttps://github.com/AzSuawa/AzSuVelocity"
+    - "§6License: §2Mozilla Public License 2.0"
+    - "§6This plugin is released under MPL 2.0. Use, modification, or distribution must comply with its terms."
